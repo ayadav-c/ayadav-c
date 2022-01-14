@@ -2,7 +2,7 @@
 - 👀 I’m interested in Development
 - 🌱 I’m currently learning Php, Mysql and Javascript
 - 💞️ I’m looking to collaborate on my company and team
-- 📫 How to reach me 'ayadav-c@illuminateed.net' drop a mail
+- 📫 Ping me an email 'ayadav-c@illuminateed.net'
 
 <!---
 ayadav-c/ayadav-c is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
