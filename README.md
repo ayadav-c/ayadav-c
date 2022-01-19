@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ayadav-c
+- 👋 Hi, I’m Arun Yadav
 - 👀 I’m interested in Development
 - 🌱 I’m currently learning Php, Mysql and Javascript
 - 💞️ I’m looking to collaborate on my company and team
